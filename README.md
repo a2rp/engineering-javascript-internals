@@ -124,12 +124,13 @@ Topics are being added incrementally with structured explanations.
 
 ## Author
 
-Ashish Ranjan  
-GitHub: https://github.com/a2rp  
-Portfolio: https://www.ashishranjan.net  
-LinkedIn: https://www.linkedin.com/in/aashishranjan
-Facebook: https://www.facebook.com/theash.ashish/
-Youtube: https://www.youtube.com/@ashishranjan-ashz
+Ashish Ranjan
+
+- GitHub: https://github.com/a2rp
+- Portfolio: https://www.ashishranjan.net
+- LinkedIn: https://www.linkedin.com/in/aashishranjan
+- Facebook: https://www.facebook.com/theash.ashish/
+- Youtube: https://www.youtube.com/@ashishranjan-ashz
 
 ---
 
