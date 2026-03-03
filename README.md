@@ -6,6 +6,10 @@ This project focuses on execution mechanics, runtime behavior, async flow, memor
 
 ---
 
+![alt text](image.png)
+
+---
+
 ## Purpose
 
 Most developers learn JavaScript syntax.  
